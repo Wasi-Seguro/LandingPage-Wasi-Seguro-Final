@@ -1,4 +1,4 @@
-Link Landing Page (página web): 
+Link Landing Page (página web): https://wasi-seguro.github.io/LandingPage-Wasi-Seguro-Final/
 
 # WasiSeguro
 
@@ -28,6 +28,7 @@ WasiSeguro es una solución digital enfocada en mejorar la seguridad urbana medi
 - **Alertas Verificables**: Sistema de notificaciones validadas sobre incidentes.
 
 - **Reportes Ciudadanos**: Plataforma colaborativa para reportar incidencias de seguridad.
+
 
 
 
